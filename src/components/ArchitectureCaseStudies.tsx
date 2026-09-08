@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Layers, Shield, Play, RefreshCw, CheckCircle2, Sliders, UserCheck, Lock, ExternalLink, Sparkles, Cpu, ArrowRight } from 'lucide-react';
+import { Layers, Shield, Play, RefreshCw, CheckCircle2, Sliders, Lock, ExternalLink, Cpu } from 'lucide-react';
 import { GithubIcon } from './SocialIcons';
 
 export const ArchitectureCaseStudies: React.FC = () => {

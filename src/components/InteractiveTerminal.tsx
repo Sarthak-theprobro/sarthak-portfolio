@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react';
-import { Terminal, CornerDownLeft, ExternalLink, Sparkles, FolderGit2 } from 'lucide-react';
+import { Terminal, CornerDownLeft, ExternalLink, FolderGit2 } from 'lucide-react';
 import { GithubIcon } from './SocialIcons';
 
 interface TerminalLine {

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { X, Zap, Shield, Sparkles, Check, CheckCircle2, ArrowRight, Rocket, Mail, Send } from 'lucide-react';
+import { X, Zap, Check, CheckCircle2, Rocket } from 'lucide-react';
 import confetti from 'canvas-confetti';
 
 interface MVPBookingModalProps {
